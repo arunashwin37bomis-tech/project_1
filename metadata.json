@@ -1,0 +1,8 @@
+{
+  "name": "Remix Flagship 3D Smartphone Teardown \u0026 Mechanics",
+  "description": "Interactive 3D smartphone internal teardown explorer showcasing the hardware architecture, materials, and micro-mechanics of the Samsung Galaxy S26, iPhone 18, OnePlus 15, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
